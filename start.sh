@@ -1,3 +1,3 @@
 #!/bin/bash
 cd Barber
-python bot.py
+python3 bot.py
